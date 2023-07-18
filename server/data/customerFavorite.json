@@ -1,0 +1,50 @@
+[
+  {
+    "CustomerId": 1,
+    "CuisineId": 1
+  },
+  {
+    "CustomerId": 2,
+    "CuisineId": 2
+  },
+  {
+    "CustomerId": 3,
+    "CuisineId": 3
+  },
+  {
+    "CustomerId": 4,
+    "CuisineId": 4
+  },
+  {
+    "CustomerId": 1,
+    "CuisineId": 5
+  },
+  {
+    "CustomerId": 2,
+    "CuisineId": 6
+  },
+  {
+    "CustomerId": 3,
+    "CuisineId": 1
+  },
+  {
+    "CustomerId": 4,
+    "CuisineId": 2
+  },
+  {
+    "CustomerId": 1,
+    "CuisineId": 3
+  },
+  {
+    "CustomerId": 2,
+    "CuisineId": 4
+  },
+  {
+    "CustomerId": 3,
+    "CuisineId": 5
+  },
+  {
+    "CustomerId": 4,
+    "CuisineId": 6
+  }
+]

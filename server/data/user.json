@@ -1,0 +1,26 @@
+[
+  {
+    "username": "Kim Tae Ri",
+    "email": "kimtaeri@gmail.com",
+    "password": "kimtaeri",
+    "role": "admin",
+    "phoneNumber": "085108510851",
+    "address": "Jl. Cisitu Lama"
+  },
+  {
+    "username": "Han So Hee",
+    "email": "hansohee@gmail.com",
+    "password": "hansohee",
+    "role": "staff",
+    "phoneNumber": "082108210821",
+    "address": "Jl. Cisitu Indah"
+  },
+  {
+    "username": "Yoo In-na",
+    "email": "yooinna@gmail.com",
+    "password": "yooinna",
+    "role": "admin",
+    "phoneNumber": "081208120812",
+    "address": "Jl. Cisitu Baru"
+  }
+]

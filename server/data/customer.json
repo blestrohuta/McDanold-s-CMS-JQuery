@@ -1,0 +1,30 @@
+[
+  {
+    "username": "IU",
+    "email": "iu@gmail.com",
+    "password": "dlwlrma",
+    "phoneNumber": "085308530853",
+    "address": "Jl. Dago Atas"
+  },
+  {
+    "username": "Bae Suzy",
+    "email": "baesuzy@gmail.com",
+    "password": "baesuzy",
+    "phoneNumber": "085608560856",
+    "address": "Jl. Dago Pakar"
+  },
+  {
+    "username": "Kim Jisoo",
+    "email": "kimjisoo@gmail.com",
+    "password": "kimjisoo",
+    "phoneNumber": "083408340834",
+    "address": "Jl. Dago Pojok"
+  },
+  {
+    "username": "Wendy",
+    "email": "wendy@gmail.com",
+    "password": "wendy",
+    "phoneNumber": "089808980898",
+    "address": "Jl. Dago Baru"
+  }
+]

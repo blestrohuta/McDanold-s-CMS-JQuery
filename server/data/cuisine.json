@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Beef Burger Deluxe",
+    "description": "burger lezat dengan patty daging sapi juicy, keju leleh, dan topping segar, disajikan di roti burger empuk",
+    "price": 250000,
+    "imgUrl": "https://www.mcdelivery.co.id/id/static/1684508353848/assets/62/products/100147.png?",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "name": "PaNas 1",
+    "description": "paket makanan yang terdiri dari ayam, nasi, dan minuman",
+    "price": 380000,
+    "imgUrl": "https://www.mcdelivery.co.id/id/static/1685458158597/assets/62/products/111028.png?",
+    "authorId": 2,
+    "categoryId": 1
+  },
+  {
+    "name": "McNuggets® 9pcs",
+    "description": "9 potong McNuggets yang terbuat dari daging ayam cincang yang diolah dengan rempah-rempah dan tepung roti yang renyah",
+    "price": 435000,
+    "imgUrl": "https://www.mcdelivery.co.id/id/static/1685458158597/assets/62/products/112002.png?",
+    "authorId": 3,
+    "categoryId": 1
+  },
+  {
+    "name": "Paket Korean Soy Garlic Wings",
+    "description": "sayap ayam dipanggang atau digoreng hingga renyah dengan lapisan saus soy garlic yang manis dan gurih",
+    "price": 315000,
+    "imgUrl": "https://www.mcdelivery.co.id/id/static/1685458158597/assets/62/products/112093.png?",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "name": "Big Mac®",
+    "description": "burger yang terdiri dari dua lapisan daging sapi panggang, selada, keju leleh, acar timun",
+    "price": 410000,
+    "imgUrl": "https://www.mcdelivery.co.id/id/static/1685458158597/assets/62/products/100007.png?",
+    "authorId": 2,
+    "categoryId": 1
+  },
+  {
+    "name": "PaNas 2 with Rice",
+    "description": "paket yang terdiri dari nasi, minuman, dan 2 ayam",
+    "price": 500000,
+    "imgUrl": "https://www.mcdelivery.co.id/id/static/1685458158597/assets/62/products/111008.png?",
+    "authorId": 3,
+    "categoryId": 1
+  },
+  {
+    "name": "Double Choco Pie",
+    "description": "lapisan biskuit lembut yang diisi dengan cokelat leleh di bagian tengahnya",
+    "price": 170000,
+    "imgUrl": "https://www.mcdelivery.co.id/id/static/1685458158597/assets/62/products/183031.png?",
+    "authorId": 1,
+    "categoryId": 2
+  },
+  {
+    "name": "McFlurry® featuring Oreo",
+    "description": "es krim vanilla yang lembut yang dicampur dengan remah-remah Oreo",
+    "price": 135000,
+    "imgUrl": "https://www.mcdelivery.co.id/id/static/1685458158597/assets/62/products/133016.png?",
+    "authorId": 2,
+    "categoryId": 2
+  },
+  {
+    "name": "Double Choco Pie Ala Mode Strawberry",
+    "description": "kombinasi yang menggoda antara Double Choco Pie, yaitu biskuit lembut dengan lapisan cokelat di tengahnya",
+    "price": 235000,
+    "imgUrl": "https://www.mcdelivery.co.id/id/static/1685458158597/assets/62/products/133098.png?",
+    "authorId": 3,
+    "categoryId": 2
+  },
+  {
+    "name": "Sundae Chocolate",
+    "description": "es krim vanilla yang dituangi dengan saus cokelat lezat",
+    "price": 120000,
+    "imgUrl": "https://www.mcdelivery.co.id/id/static/1685458158597/assets/62/products/133004.png?",
+    "authorId": 1,
+    "categoryId": 2
+  },
+  {
+    "name": "Sundae Strawberry",
+    "description": "es krim vanilla yang dituangi dengan saus stroberi segar",
+    "price": 120000,
+    "imgUrl": "https://www.mcdelivery.co.id/id/static/1685458158597/assets/62/products/133006.png?",
+    "authorId": 2,
+    "categoryId": 2
+  },
+  {
+    "name": "Iced Lychee Tea",
+    "description": "minuman segar yang terbuat dari campuran teh dingin dan rasa buah leci",
+    "price": 200000,
+    "imgUrl": "https://www.mcdelivery.co.id/id/static/1685458158597/assets/62/products/188084.png?",
+    "authorId": 1,
+    "categoryId": 3
+  },
+  {
+    "name": "Iced Coffee",
+    "description": "minuman yang terbuat dari kopi dingin yang disajikan dengan es batu",
+    "price": 190000,
+    "imgUrl": "https://www.mcdelivery.co.id/id/static/1685458158597/assets/62/products/134003.png?",
+    "authorId": 2,
+    "categoryId": 3
+  },
+  {
+    "name": "Coca Cola®",
+    "description": "memiliki rasa yang manis dan segar, dengan sentuhan rasa kola yang khas",
+    "price": 95000,
+    "imgUrl": "https://www.mcdelivery.co.id/id/static/1685458158597/assets/62/products/184009.png?",
+    "authorId": 3,
+    "categoryId": 3
+  },
+  {
+    "name": "Coke McFloat®",
+    "description": "kombinasi yang unik antara rasa Coca Cola® yang berkarbonasi dan segar dengan lezatnya es krim vanilla",
+    "price": 140000,
+    "imgUrl": "https://www.mcdelivery.co.id/id/static/1685458158597/assets/62/products/133023.png?",
+    "authorId": 1,
+    "categoryId": 3
+  },
+  {
+    "name": "Fanta®",
+    "description": "memiliki rasa buah yang segar dan manis",
+    "price": 95000,
+    "imgUrl": "https://www.mcdelivery.co.id/id/static/1685458158597/assets/62/products/184012.png?",
+    "authorId": 1,
+    "categoryId": 3
+  },
+  {
+    "name": "Happy Meal® Chicken Burger",
+    "description": "burger ayam yang khusus disesuaikan untuk anak-anak",
+    "price": 440000,
+    "imgUrl": "https://www.mcdelivery.co.id/id/static/1685458158597/assets/62/products/117037.png?",
+    "authorId": 2,
+    "categoryId": 4
+  },
+  {
+    "name": "Happy Meal® McNuggets® 4Pcs",
+    "description": "4 potong nugget ayam yang disajikan dalam kotak Happy Meal® yang khusus untuk anak-anak",
+    "price": 440000,
+    "imgUrl": "https://www.mcdelivery.co.id/id/static/1685458158597/assets/62/products/117034.png?",
+    "authorId": 3,
+    "categoryId": 4
+  },
+  {
+    "name": "Happy Meal® Beef Burger",
+    "description": "burger daging sapi yang khusus disesuaikan untuk anak-anak",
+    "price": 440000,
+    "imgUrl": "https://www.mcdelivery.co.id/id/static/1685458158597/assets/62/products/107009.png?",
+    "authorId": 1,
+    "categoryId": 4
+  },
+  {
+    "name": "Happy Meal® Ayam",
+    "description": "potongan ayam yang khusus disesuaikan untuk anak-anak",
+    "price": 440000,
+    "imgUrl": "https://www.mcdelivery.co.id/id/static/1685458158597/assets/62/products/117031.png?",
+    "authorId": 2,
+    "categoryId": 4
+  },
+  {
+    "name": "Paket Keluarga Seru tanpa Mainan",
+    "description": "tediri dari ayam, nasi, minuman, dan es krim",
+    "price": 840000,
+    "imgUrl": "https://www.mcdelivery.co.id/id/static/1685458158597/assets/62/products/211336.png?",
+    "authorId": 3,
+    "categoryId": 5
+  },
+  {
+    "name": "Paket Keluarga Seru Happy Meal",
+    "description": "paket keluarga dengan tambahan burger dan mainan",
+    "price": 1100000,
+    "imgUrl": "https://www.mcdelivery.co.id/id/static/1685458158597/assets/62/products/217057.png?",
+    "authorId": 1,
+    "categoryId": 5
+  },
+  {
+    "name": "PaMer 5",
+    "description": "5 ayam, 3 nasi, dan 3 minuman",
+    "price": 1250000,
+    "imgUrl": "https://www.mcdelivery.co.id/id/static/1685458158597/assets/62/products/111042.png?",
+    "authorId": 2,
+    "categoryId": 5
+  },
+  {
+    "name": "PaMer 7",
+    "description": "7 ayam, 5 nasi, dan 5 minuman",
+    "price": 180000,
+    "imgUrl": "https://www.mcdelivery.co.id/id/static/1685458158597/assets/62/products/111066.png?",
+    "authorId": 3,
+    "categoryId": 5
+  },
+  {
+    "name": "Paket Hantaran McD",
+    "description": "5 ayam, 5 nasi, dan 5 minuman",
+    "price": 1290000,
+    "imgUrl": "https://www.mcdelivery.co.id/id/static/1685458158597/assets/62/products/211150.png?",
+    "authorId": 1,
+    "categoryId": 5
+  },
+  {
+    "name": "Combo Cheese Croissant",
+    "description": "cheese croissant yang lezat dan gurih dilengkapi minuman",
+    "price": 460000,
+    "imgUrl": "https://www.mcdelivery.co.id/id/static/1685458158597/assets/62/products/288018.png?",
+    "authorId": 2,
+    "categoryId": 6
+  },
+  {
+    "name": "Butter Croissant + Regular Hot Cappuccino",
+    "description": "roti lapis yang terbuat dari adonan puff pastry yang berbentuk bulat dengan tekstur yang lembut dan renyah",
+    "price": 365000,
+    "imgUrl": "https://www.mcdelivery.co.id/id/static/1685458158597/assets/62/products/188097.png?",
+    "authorId": 3,
+    "categoryId": 6
+  },
+  {
+    "name": "Klepon Cake",
+    "description": "tekstur lembut dan rasa manis yang unik",
+    "price": 34500,
+    "imgUrl": "https://www.mcdelivery.co.id/id/static/1685458158597/assets/62/products/188147.png?",
+    "authorId": 1,
+    "categoryId": 6
+  },
+  {
+    "name": "Choco Lover",
+    "description": "menikmati rasa cokelat dalam segala bentuk dan varian",
+    "price": 345000,
+    "imgUrl": "https://www.mcdelivery.co.id/id/static/1685458158597/assets/62/products/188094.png?",
+    "authorId": 2,
+    "categoryId": 6
+  },
+  {
+    "name": "Banana Muffin",
+    "description": "ekstur lembut dan rasa yang kaya akan aroma pisang yang manis",
+    "price": 245000,
+    "imgUrl": "https://www.mcdelivery.co.id/id/static/1685458158597/assets/62/products/188002.png?",
+    "authorId": 3,
+    "categoryId": 6
+  }
+]
